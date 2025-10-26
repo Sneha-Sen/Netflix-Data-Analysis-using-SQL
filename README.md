@@ -1,2 +1,16 @@
-# Netflix-Data-Analysis-using-SQL
-This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. 
+# Netflix Data — SQL Analysis Project
+
+## Overview
+This is a small SQL-based data analysis project on a Netflix dataset.  
+The goal: run practical SQL queries to get business-style insights (counts, trends, top lists, parsing messy fields, basic text classification).
+
+**Tech:** MySQL
+
+---
+
+## Objectives
+Analyze the distribution of content types (movies vs TV shows).
+Identify the most common ratings for movies and TV shows.
+List and analyze content based on release years, countries, and durations.
+Explore and categorize content based on specific criteria and keywords.
+
